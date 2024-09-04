@@ -1,0 +1,130 @@
+body{
+    background-image: url(../uploads/12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+.navbar{
+    background-color: linear-gradient(black 0,0,0,.5),black (0,0,0,.5));
+}
+
+.navbar ul li a{
+    color: #fff;
+    font-size: 1em;
+    font-family: 'Ubuntu', sans-serif;
+    transition-delay: .5s ease;
+    border-radius:2em;
+}
+
+.navbar ul li a:hover{
+    color: black;
+    background: aqua;
+}
+
+
+
+
+
+
+#headersection{
+    padding: 10px;
+}
+
+#headersection h1{
+    text-align: center;
+    font-family: Bernard MT Condensed;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px; 
+    width: 50%;
+    background: transparent;
+}
+
+#loginbtn{
+    padding: 8px 10px;
+        margin: 35px auto;
+        border: 2px solid black;
+        border-radius: 8px;
+        background: aqua;
+        color: black;
+        cursor: pointer;
+        transition: .5s;
+    
+        
+}
+.main-text{
+    font-family:'Gill Sans';
+    
+}
+  
+#buton{
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgba(27, 226, 183, 0.877);
+    color: black;
+    float: right;
+    margin: 10px;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+
+
+#bodysection{
+    width:380px;
+	height:480px;
+	position:relative;
+	margin:2% auto;
+	background: rgba(245, 13, 226, 0.178);
+	padding:10px;
+    overflow: hidden;
+}
+
+
+    
+    
+}
+
+.loginbtn {
+font-size: 20px;
+    color: rgb(34, 25, 25);
+    outline: none;
+    border: none;
+    background: transparent;
+    border-radius: 30px;
+    font-family: sans-serif;
+    display: inline-block;
+    transition: .5s;
+    width: 115px;
+    height: 200%;
+    
+    
+
+}
+
+option {
+    background: white;
+}
+
+#body {
+    background: white;
+    overflow: hidden;
+}
+
+
+
